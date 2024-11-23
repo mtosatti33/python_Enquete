@@ -1,0 +1,18 @@
+{
+    "1 - Qual a Sua liguagem preferida?": {
+        "1 - Python": 13,
+        "2 - C#": 3,
+        "3 - Java": 1,
+        "4 - C++": 0,
+        "5 - Ruby": 2,
+        "0 - Nenhuma das Tr\u00eas": 2
+    },
+    "2 - Qual marca de Celular vc prefere?": {
+        "1 - iPhone": 2,
+        "2 - Samsung": 0,
+        "3 - Motorola": 0,
+        "4 - Xiaomi": 0,
+        "5 - Sony": 0,
+        "0 - Nenhuma das Tr\u00eas": 1
+    }
+}
